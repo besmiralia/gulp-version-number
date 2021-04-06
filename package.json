@@ -1,5 +1,5 @@
 {
-  "name": "@besmiralia/gulp-version-number",
+  "name": "gulp-file-versioning",
   "description": "Add version number to css/js/image... in HTML file.",
   "version": "0.3.0",
   "author": "Besmir Alia <besmir.alia@gmail.com>",
